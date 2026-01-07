@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+torch
+torchvision
+pillow
+google-cloud-storage
+google-cloud-vision
+firebase-admin
